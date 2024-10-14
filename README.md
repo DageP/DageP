@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DageP
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning Convolutional Neural Network
+- 👀 I’m interested in machine Software and Fullstack Development
+- 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
